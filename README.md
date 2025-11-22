@@ -1,0 +1,1 @@
+A simple YouTube homepage clone built using HTML and CSS. The project recreates the main UI elements of YouTube, including the navigation bar, sidebar menu, and video grid layout. This clone focuses on layout, styling, and responsive design to practice modern front-end development techniques.
